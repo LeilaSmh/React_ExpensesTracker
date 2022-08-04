@@ -8,13 +8,13 @@ const App = () => {
       id: "i1",
       title: "Toothbrush",
       amount: 30,
-      date: new Date(2022, 7, 1),
+      date: new Date(2019, 7, 1),
     },
     {
       id: "i2",
       title: "Toothpaste",
       amount: 67.5,
-      date: new Date(2022, 7, 1),
+      date: new Date(2020, 7, 1),
     },
     {
       id: "i3",
