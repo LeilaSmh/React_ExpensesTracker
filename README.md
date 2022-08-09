@@ -1,2 +1,4 @@
-# Learning-React
-This is a just a test project for learning React ^^
+# React-Basics
+A simple Expenses Tracker project for React basics
+(States - props - events ...)
+^^
