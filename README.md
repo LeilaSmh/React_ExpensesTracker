@@ -1,4 +1,4 @@
-# React-Expenses-Tracker
+# React_ExpensesTracker
 A simple Expenses Tracker project for React basics
 (States - props - events ...)
 ^^
